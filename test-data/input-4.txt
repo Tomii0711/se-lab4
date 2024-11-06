@@ -1,0 +1,8 @@
+#Alternating with secondary failure set to 100% (1.0)
+GT4500,1,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+#Alternating with primary failure set to 100% (1.0)
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

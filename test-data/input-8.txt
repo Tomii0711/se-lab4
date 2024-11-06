@@ -1,0 +1,4 @@
+#Fire single and all with no torpedos
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL
