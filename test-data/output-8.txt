@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+FAIL  # <- Fired SINGLE with no torpedos
+FAIL  # <- Fired ALL with no torpedos
